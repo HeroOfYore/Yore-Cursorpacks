@@ -20,3 +20,6 @@ Doing it this way means each animation has to be applied manually. They are, how
 ## Method 3: Linux Manual
 The CursorLinux.tar folder contains a subfolder which contains an index.theme, and a file with the cursor files in the Linux format. To install them, add this subfolder (nameCursorPack, e.g. BeatCursorPack) to the ~/usr/shared/icons
 folder. After this is done, it _should_ appear as a mouse theme.
+
+I also don't normally do this, but if you feel like donating, I do also have a Ko-Fi!
+https://ko-fi.com/heroofyore
