@@ -21,5 +21,7 @@ Doing it this way means each animation has to be applied manually. They are, how
 The CursorLinux.tar folder contains a subfolder which contains an index.theme, and a file with the cursor files in the Linux format. To install them, add this subfolder (nameCursorPack, e.g. BeatCursorPack) to the ~/usr/shared/icons
 folder. After this is done, it _should_ appear as a mouse theme.
 
+Other information: If the animations seem _really_ small, you might need to increase your cursor size. This can be done through mouse settings -> Mouse Pointer and Touch
+
 I also don't normally do this, but if you feel like donating, I do also have a Ko-Fi!
 https://ko-fi.com/heroofyore
