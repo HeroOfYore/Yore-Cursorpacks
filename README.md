@@ -2,6 +2,7 @@
 
 ## Method 1: Installer
 On Windows, the CursorInstaller.zip folder will contain a .INF file - this can be run via right-click-> install to import the cursor scheme into the mouse scheme menu.
+After this, follow the Method 2 steps into the Pointers menu - A new scheme will already be there that you can apply.
 
 ## Method 2: Windows Manual
 Open the Control Panel through the search bar, then head to Mouse
