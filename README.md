@@ -4,7 +4,7 @@
 
 
 OPTIONAL BUT RECOMMENDED FIRST STEP:
-Open the Mouse Settings menu through the search bar, and find the "Mouse pointer and Touch menu"
+Open the Mouse Settings menu through the search bar, and find the "Mouse pointer and Touch menu"  
 <img width="934" height="539" alt="image" src="https://github.com/user-attachments/assets/a245268f-8613-4d25-a4cd-f44ef498e61f" />
 Increase the mouse size. I recommend increasing it to 3, assuming you were using the windows default (1)
 
