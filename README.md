@@ -53,6 +53,18 @@ To increase the mouse size, as this may be very small, there are two methods (on
 - On newer systems, open the Settings panel, and head to the Accessibility menu. There should be a Seeing sub-menu, which contains Cursor Size settings.
 
 
+# CURSOR LIST:
+## UNBEATABLE:
+https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-quaver   - QUAVER
+https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-poco - POCO
+https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-beat - BEAT
+https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-romance REST (ROMANCE)
+https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-grief REST (GRIEF)
+
+## OTHER:
+https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-soppo - SOPPO
+
+
 
 I also don't normally do this, but if you feel like donating, I do also have a Ko-Fi!
 https://ko-fi.com/heroofyore
