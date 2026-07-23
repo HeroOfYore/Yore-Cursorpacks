@@ -55,19 +55,19 @@ To increase the mouse size, as this may be very small, there are two methods (on
 
 # CURSOR LIST:
 ## UNBEATABLE:
-https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-quaver   - QUAVER
+[QUAVER](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-quaver)
 
-https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-poco - POCO
+[POCO](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-poco)
 
-https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-beat - BEAT
+[BEAT](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.1.0-beat)
 
-https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-romance REST (ROMANCE)
+[REST (ROMANCE)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-romance)
 
-https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-grief REST (GRIEF)
+ [REST (GRIEF)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-grief)
 
 
 ## OTHER:
-https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-soppo - SOPPO
+[SOPPO (GFL)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-soppo)
 
 
 
