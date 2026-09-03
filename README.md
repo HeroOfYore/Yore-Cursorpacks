@@ -73,7 +73,7 @@ To increase the mouse size, as this may be very small, there are two methods (on
 ## OTHER:
 [SOPPO (GFL)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-soppo)
 
-
+[MARINA (SPLATOON)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-marina)
 
 I also don't normally do this, but if you feel like donating, I do also have a Ko-Fi!
 https://ko-fi.com/heroofyore
