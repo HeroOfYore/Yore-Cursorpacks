@@ -79,5 +79,6 @@ To increase the mouse size, as this may be very small, there are two methods (on
 
 [PYRE (NO BLINK)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-pyre-noblink)
 
+[MADELINE (CELESTE)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-madeline)
 I also don't normally do this, but if you feel like donating, I have a Ko-Fi!
 https://ko-fi.com/heroofyore
