@@ -65,9 +65,13 @@ To increase the mouse size, as this may be very small, there are two methods (on
 
 [REST (ROMANCE)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-romance)
 
- [REST (GRIEF)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-grief)
+[REST (GRIEF)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-rest-grief)
 
- [MAID CREST](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-maidcrest)
+[MAID CREST](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-maidcrest)
+
+[TREBLE](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-treble)
+ 
+[TREBLE (FEM)](https://github.com/HeroOfYore/Yore-Cursorpacks/releases/tag/v1.0.0-treble-fem)
 
 
 ## OTHER:
